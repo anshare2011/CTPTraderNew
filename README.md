@@ -1,4 +1,5 @@
 # CTPTraderNew
+  期货ctp穿透之前的版本写了一个项目CTPTrader，现已无法使用（详见 https://github.com/huxingwu1/CTPTrader）。
   CTPTraderNew是利用穿透ctp编写的期货交易软件，本项目下包含两个小项目：CTPTraderServer、CTPTraderClient.
   
   CTPTraderServer是行情收集程序，每天定时登录和退出，收集全市场期货程序，收集tick行情和将tick数据合成不同频率的K线数据保存本地数据库。
